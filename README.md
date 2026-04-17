@@ -1,34 +1,43 @@
 # Zomato-Data-Analysis-Python-Project
 Exploratory Data Analysis of Zomato data using Python, Pandas, and Seaborn"
 
-S - Situation
-"The restaurant industry is highly competitive, and platforms like Zomato generate massive amounts of data daily. However, without proper analysis, this data is just noise. I wanted to understand what actually makes a restaurant successful—whether it's the location, the price point, or the specific type of cuisine offered".
+# Zomato Data Analysis Project 📊
 
-T - Task
-"My objective was to act as a Data Analyst to clean a raw Zomato dataset and perform Exploratory Data Analysis (EDA). I needed to identify the key factors that influence restaurant ratings and customer engagement to provide actionable insights for restaurant owners".
+Exploratory Data Analysis of Zomato data using **Python**, **Pandas**, and **Seaborn**.
 
-A - Action
-"I used Python and libraries like Pandas, Matplotlib, and Seaborn to execute the following steps:
+---
 
-Data Cleaning: Handled missing values, removed duplicates, and corrected data types for over 9,000 records.
+## 🚀 Project Overview: The STAR Method
 
-Feature Engineering: Extracted useful details like 'Average Cost for Two' and delivery availability to see how they impact popularity.
+### **S - Situation**
+"The restaurant industry is highly competitive, and platforms like Zomato generate massive amounts of data daily. Without analysis, this data is just noise. I wanted to understand what makes a restaurant successful—location, price point, or cuisine."
 
-Visualization: Created bar charts, histograms, and box plots to analyze the distribution of ratings and price ranges across different cities.
+### **T - Task**
+"My objective was to act as a **Data Analyst** to clean a raw Zomato dataset and perform **Exploratory Data Analysis (EDA)** to identify key factors that influence restaurant ratings."
 
-Correlation Analysis: Analyzed the relationship between online ordering and the total number of votes a restaurant received".
+---
 
-R - Result
-"The analysis led to several key business insights:
+## 🛠️ Actions Taken
+* **Data Cleaning:** Handled missing values, removed duplicates, and corrected data types for over **9,000 records**.
+* **Feature Engineering:** Extracted details like 'Average Cost for Two' and delivery availability to measure impact on popularity.
+* **Visualization:** Created **bar charts, histograms, and box plots** to analyze rating distributions and price ranges.
+* **Correlation Analysis:** Studied the relationship between online ordering and customer engagement (votes).
 
-Online Presence: Restaurants with online delivery options saw a significantly higher volume of customer engagement compared to those without.
+---
 
-Pricing Strategy: I identified that 'mid-range' priced restaurants often have the highest average ratings, suggesting a sweet spot for profitability and customer satisfaction.
+## 📈 Key Results & Insights
+* **Online Presence:** Restaurants with online delivery saw significantly higher customer engagement.
+* **Pricing Strategy:** 'Mid-range' priced restaurants often have the highest average ratings—a "sweet spot" for satisfaction.
+* **Cuisine Demand:** Identified the top 3 most popular cuisines in specific urban clusters to help new owners make data-driven decisions.
 
-Cuisine Demand: Identified the top 3 most popular cuisines in specific urban clusters, which can help new owners decide what to serve for maximum profit.
+---
 
-Outcome: I successfully built a clean, reproducible workflow that can be used to analyze similar food-aggregator datasets".
+## 📁 Files in this Repository
+* `Zomato_Analysis_Project.ipynb` - Full Python code and visualizations.
+* `Zomato data .csv` - The raw dataset.
+* `zomato full project Notes.pdf` - Project documentation.
 
-GitHub: https://github.com/PatlaveetiJabeer786
+---
 
-Portfolio: https://jabeer.lovable.app/
+**GitHub:** https://github.com/PatlaveetiJabeer786  
+**Portfolio:** https://jabeer.lovable.app/
