@@ -1,5 +1,4 @@
-# Zomato-Data-Analysis-Python-Project
-Exploratory Data Analysis of Zomato data using Python, Pandas, and Seaborn"
+
 
 # Zomato Data Analysis Project 📊
 
@@ -32,10 +31,7 @@ Exploratory Data Analysis of Zomato data using **Python**, **Pandas**, and **Sea
 
 ---
 
-## 📁 Files in this Repository
-* `Zomato_Analysis_Project.ipynb` - Full Python code and visualizations.
-* `Zomato data .csv` - The raw dataset.
-* `zomato full project Notes.pdf` - Project documentation.
+
 
 ---
 
